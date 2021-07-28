@@ -1,7 +1,8 @@
-Version: 2.0.0
-  - The template was rebuilt from scratch with the latest Bootstrap version (4.5.0)
-  - Added SMPTP support for the contact form script (Pro)
-  - Added NodeJS NPM Development version (Pro unlimited & Membership members)
-  
-Version: 1.0.0
-  - Initial Release
+Version 1.0.0
+Downloaded Schema and added in own information
+
+Version 1.1.0
+Removed unnecessary sections
+
+Version 1.2.0
+Added in site links
