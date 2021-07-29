@@ -6,3 +6,6 @@ Removed unnecessary sections
 
 Version 1.2.0
 Added in site links
+
+Version 1.2.1
+Added navigation link for site links
