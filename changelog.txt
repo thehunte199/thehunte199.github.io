@@ -9,3 +9,6 @@ Added in site links
 
 Version 1.2.1
 Added navigation link for site links
+
+Version 1.2.2
+Updating resume and about information plus removal of temporary disclaimer
